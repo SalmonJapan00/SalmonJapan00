@@ -11,3 +11,6 @@
 ## 仕事
 - 何もない（強いて言うならこのサイト？）
 
+## SNS等各種リンク
+- <a href="http://Twitter.com/SalmonJapan_">Twitter本垢</a>
+

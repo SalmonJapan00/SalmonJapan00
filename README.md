@@ -12,6 +12,13 @@
 - 何もない（強いて言うならこのサイト？）
 
 ## SNS等各種リンク
+
+<b>YouTube</b>
+
+- <a href="http://YouTube.com/@Salmon2nd_">本垢（ID移行するかも？）</a>
+- <a href="http://YouTube.com/@SalmonBlog_">実写垢（準備中）</a>
+
+
 <b>Twitter</b>
 
 - <a href="http://Twitter.com/SalmonJapan_">メイン垢</a>
@@ -29,5 +36,6 @@
 - <a href="http://Twitter.com/Salmon2nd_">メイン垢（ID移行中）</a>
 - <a href="http://Twitter.com/SalmonWorks_">本垢（仕事垢）準備中</a>
 - <a href="http://Twitter.com/SalmonGames_">ゲーム実況垢</a>
-- <a href="http://Twitter.com/SalmonJapan_">本垢</a>
+
+<b>
 

@@ -43,6 +43,8 @@
 
 - <a href="https://discord.gg/q9rueM5a">Discordサーバー</a>
 
-##スペシャルサンクス
+## スペシャルサンクス
+
 アイコンイラスト（wvさん）
+
 

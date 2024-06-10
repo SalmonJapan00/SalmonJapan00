@@ -13,6 +13,8 @@
 
 ## SNS等各種リンク
 
+無駄にアカウントたくさんあるけど、温かい目で見てくれると嬉しいです。
+
 <b>YouTube</b>
 
 - <a href="http://YouTube.com/@Salmon2nd_">本垢（ID移行するかも？）</a>

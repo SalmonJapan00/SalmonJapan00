@@ -38,7 +38,6 @@
 - <a href="http://tiktok.com/@SalmonGames_">ゲーム実況垢</a>
 
 <b>discord server</b>
-- <a href="http://tiktok.com/@Salmon2nd_">メイン垢（ID移行中）</a>
 
 - <a href="https://discord.gg/q9rueM5a">Discordサーバー</a>
 
